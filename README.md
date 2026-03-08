@@ -204,6 +204,12 @@ Then open the browser and upload a BOQ CSV dataset.
 
 ---
 
+## 🌐 Live Demo
+
+Try the BOQ Analyzer directly in your browser:
+
+👉 https://infrastructure-boq-analyser-vaz3nwrqwojuvtrbiahvaw.streamlit.app/
+
 # 🔮 Future Improvements
 
 Planned enhancements include:
