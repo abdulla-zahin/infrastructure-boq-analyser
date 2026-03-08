@@ -77,7 +77,7 @@ Users upload a BOQ CSV dataset and provide project information.
 
 The system then processes the dataset and generates analytical insights automatically.
 
-![System Interface](images/system_interface.png)
+![System Interface](Images/system_interface.png)
 
 ---
 
@@ -85,7 +85,7 @@ The system then processes the dataset and generates analytical insights automati
 
 The analyzer generates visual summaries showing how project costs are distributed across categories such as **materials and labor**.
 
-![Cost Distribution](images/cost_distribution.png)
+![Cost Distribution](Images/cost_distributions.png)
 
 ---
 
@@ -93,7 +93,7 @@ The analyzer generates visual summaries showing how project costs are distribute
 
 The system highlights the **most expensive BOQ items** and identifies the **top cost contributors**.
 
-![Key Cost Drivers](images/key_cost_drivers.png)
+![Key Cost Drivers](Images/key_cost_drivers.png)
 
 ---
 
@@ -101,7 +101,7 @@ The system highlights the **most expensive BOQ items** and identifies the **top 
 
 Users can inspect individual BOQ items through a searchable interface and export the results as an **Excel report**.
 
-![BOQ Review](images/boq_review.png)
+![BOQ Review](Images/boq_review.png)
 
 ---
 
@@ -115,7 +115,7 @@ The analyzer processes structured BOQ datasets containing:
 - Unit Price
 - Total Cost
 
-![BOQ Dataset](images/boq_dataset.png)
+![BOQ Dataset](Images/boq_dataset.png)
 
 ---
 
@@ -175,7 +175,7 @@ Infrastructure-BOQ-Analyzer
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/infrastructure-boq-analyzer.git
+git clone https://github.com/abdulla-zahin/infrastructure-boq-analyzer.git
 ```
 
 Navigate to the project directory:
