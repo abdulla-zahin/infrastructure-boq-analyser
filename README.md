@@ -115,7 +115,7 @@ The analyzer processes structured BOQ datasets containing:
 - Unit Price
 - Total Cost
 
-![BOQ Dataset](images/boq_dataset.png)
+![BOQ Dataset](Images/boq_dataset.png)
 
 ---
 
