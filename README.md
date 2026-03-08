@@ -85,7 +85,7 @@ The system then processes the dataset and generates analytical insights automati
 
 The analyzer generates visual summaries showing how project costs are distributed across categories such as **materials and labor**.
 
-![Cost Distribution](Images/cost_distribution.png)
+![Cost Distribution](Images/cost_distributions.png)
 
 ---
 
