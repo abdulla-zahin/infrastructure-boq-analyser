@@ -175,7 +175,7 @@ Infrastructure-BOQ-Analyzer
 Clone the repository:
 
 ```bash
-git clone [https://github.com/abdulla-zahin/infrastructure-boq-analyzer.git](https://github.com/abdulla-zahin/infrastructure-boq-analyser)
+git clone https://github.com/abdulla-zahin/infrastructure-boq-analyzer.git
 ```
 
 Navigate to the project directory:
